@@ -1,5 +1,5 @@
 # Оформление проекта
-## [Титульный лист](https://github.com/KruASe76/workbook-10/raw/main/Проект/Титульный%20лист.doc)
+## [Паспорт проекта](https://docs.google.com/document/d/1j9uPnNs8HJjFOOm9DA1OS1PJqQXsui3u_pJc4CGuFcg/edit?usp=sharing)
 
 ## Цель
 Создать Discord-бота для автоматизации и упрощения игры в Codenames
